@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9584F64C-28E0-4E23-97EE-722073385F29"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6131954F-7FB2-4FE9-807E-47D0C0406D85"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnAmericanDreamTests/TranslationServiceTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "testGetTranslationShouldPostFailedCallbackIfIncorrectData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A2208E2C-53C5-4AB3-9CB8-D9C10A42202E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnAmericanDreamTests/TranslationServiceTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "FakeTranslationResponseData"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "A2208E2C-53C5-4AB3-9CB8-D9C10A42202E - 48ad9d9bdbf77161"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AnAmericanDreamTests.FakeTranslationResponseData.deinit"
+                  moduleName = "AnAmericanDreamTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huguesfilscaparos/Desktop/AnAmericanDream/AnAmericanDreamTests/TranslationServiceTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "A2208E2C-53C5-4AB3-9CB8-D9C10A42202E - a57acb22bebb2f36"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AnAmericanDreamTests.FakeTranslationResponseData.__deallocating_deinit"
+                  moduleName = "AnAmericanDreamTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huguesfilscaparos/Desktop/AnAmericanDream/AnAmericanDreamTests/TranslationServiceTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "A2208E2C-53C5-4AB3-9CB8-D9C10A42202E - 85783f20d409dfa2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AnAmericanDreamTests.FakeTranslationResponseData.__allocating_init() -&gt; AnAmericanDreamTests.FakeTranslationResponseData"
+                  moduleName = "AnAmericanDreamTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huguesfilscaparos/Desktop/AnAmericanDream/AnAmericanDreamTests/TranslationServiceTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "17">
+               </Location>
+               <Location
+                  uuid = "A2208E2C-53C5-4AB3-9CB8-D9C10A42202E - 2ca52b9cd4473f5b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AnAmericanDreamTests.FakeTranslationResponseData.init() -&gt; AnAmericanDreamTests.FakeTranslationResponseData"
+                  moduleName = "AnAmericanDreamTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huguesfilscaparos/Desktop/AnAmericanDream/AnAmericanDreamTests/TranslationServiceTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
